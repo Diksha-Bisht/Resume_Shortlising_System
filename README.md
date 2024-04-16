@@ -58,3 +58,9 @@ The code works only on ```.pdf``` file format data, and ignores all other kind o
 2. Pandas :  For working with data-frames.
 3. PyPDF2 : For working with PDF files.
 4. SpaCy : For text Processing.
+
+
+
+![Excel Sheet Output](https://drive.google.com/file/d/1mkLSMFGxjmcsX99sEJAwfnwTO0iEKWsH/view?usp=share_link) 
+
+
