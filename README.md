@@ -49,5 +49,12 @@ Path of folder where the output file is required to be stored.
 6. Github
 7. Originality
 
-## Constrains
+# Constrains
 The code works only on ```.pdf``` file format data, and ignores all other kind of file format. Also if the output folder is not found it create one and store the output excel file with name ``` Generated Summary.xlsx ```.
+
+# Use of Packages
+
+1. OS : For interacting with Operating System, file management, and working with directories.
+2. Pandas :  For working with data-frames.
+3. PyPDF2 : For working with PDF files.
+4. SpaCy : For text Processing.
